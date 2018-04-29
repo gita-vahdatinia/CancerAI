@@ -1,4 +1,4 @@
-import gensim
+iport gensim
 import time
 from collections import defaultdict, Counter
 from statistics import mode
